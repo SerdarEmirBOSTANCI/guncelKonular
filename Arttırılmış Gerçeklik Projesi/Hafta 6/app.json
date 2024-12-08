@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "yolbulmaoyunu",
+    "slug": "snack-78b6c92b-6cf4-466c-828b-7a50b267669c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.e.serdarbostanci.snack78b6c92b6cf4466c828b7a50b267669c"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "84ceb46f-38cb-45ae-9c9b-c5ae174f9734"
+      }
+    }
+  }
+}
