@@ -10,5 +10,5 @@ Bu proje uçak için eğlence sistemleri için güncel konular dersi kapsamında
 - **Web Sitesi**: [Web Sitesi Linki](https://serdaremirbostanci.github.io/YolBulmaOyunu/)  
   (Oluşturduğum web sitesini buradan ziyaret edebilirsiniz.)
 
-- **Youtube Videosu**: [Link](linki koy)  
+- **Youtube Videosu**: [Link](https://youtu.be/Vrd_GvfAUg8?si=FZqC6N25FvmcgSPl)  
 
