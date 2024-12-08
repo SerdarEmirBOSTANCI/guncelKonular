@@ -4,9 +4,9 @@ Bu proje uçak için eğlence sistemleri için güncel konular dersi kapsamında
 
 ## Bağlantılar
 
-- **Trello Board**: [Trello Linki Buraya](https://trello.com/b/ETXUgDnr/guncel-konular)  
+- **Trello Board**: [Trello Linki](https://trello.com/b/ETXUgDnr/guncel-konular)  
   (Projenin gelişimi için kullanılan Trello panosuna buradan ulaşabilirsiniz.)
 
-- **Web Sitesi**: [Web Sitesi Linki Buraya](https://serdaremirbostanci.github.io/YolBulmaOyunu/)  
+- **Web Sitesi**: [Web Sitesi Linki](https://serdaremirbostanci.github.io/YolBulmaOyunu/)  
   (Oluşturduğum web sitesini buradan ziyaret edebilirsiniz.)
 
