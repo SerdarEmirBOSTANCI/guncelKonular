@@ -38,7 +38,7 @@ const ResultScreen = ({ route, navigation }) => {
       {result === 'correct' ? (
         <TouchableOpacity
           style={styles.button}
-          onPress={() => navigation.navigate('Game1')}>
+          onPress={() => navigation.navigate('Game2')}>
           <Text style={styles.buttonText}>Sonraki Bölüm</Text>
         </TouchableOpacity>
       ) : (

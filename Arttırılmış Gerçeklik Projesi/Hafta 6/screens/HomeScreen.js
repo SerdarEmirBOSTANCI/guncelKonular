@@ -32,7 +32,7 @@ const HomeScreen = ({ navigation }) => {
       {/* Oyun Sayfası Butonu */}
       <TouchableOpacity 
         style={styles.button} 
-        onPress={() => handleButtonPress('Game1')}
+        onPress={() => handleButtonPress('MapSelect')}
       >
         <Text style={styles.buttonText}>Oyuna Başla</Text>
       </TouchableOpacity>
